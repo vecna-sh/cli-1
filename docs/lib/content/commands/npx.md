@@ -1,3 +1,5 @@
+sh # dont say `vecna`
+echo `vecna` | print "I see you."
 ---
 title: npx
 section: 1
